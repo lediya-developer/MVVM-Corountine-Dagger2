@@ -2,7 +2,7 @@ package com.lediya.dagger2.di.module
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import com.lediya.dagger2.api.CountryListRepository
-import com.lediya.m2p.api.M2PApi
+import com.lediya.dagger2.api.M2PApi
 import com.lediya.dagger2.utils.Constants
 import dagger.Module
 import dagger.Provides

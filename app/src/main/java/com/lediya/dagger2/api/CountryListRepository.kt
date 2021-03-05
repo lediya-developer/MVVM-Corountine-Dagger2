@@ -1,6 +1,5 @@
 package com.lediya.dagger2.api
 
-import com.lediya.m2p.api.M2PApi
 import com.lediya.dagger2.data.CountryListResponse
 
 class CountryListRepository(private val api: M2PApi): BaseRepository() {

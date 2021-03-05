@@ -1,4 +1,4 @@
-package com.lediya.m2p.api
+package com.lediya.dagger2.api
 
 import com.lediya.dagger2.data.CountryListResponse
 import retrofit2.Response
